@@ -7,3 +7,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | # | Incident / Case Name | Category | Key Tools Used | Report Link |
 | :- | :--- | :--- | :--- | :--- |
 | **01** | **Shadow Trace** | Static Malware Analysis & EDR Triage | PE-bear, CyberChef, EDR | [View Report](./01-Shadow-Trace/README.md) |
+| **02** | **Benign** | SIEM Triage, Persistence & LOLBin Execution | Splunk Enterprise | [View Report](./02-Benign/README.md) |
