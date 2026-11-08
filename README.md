@@ -12,3 +12,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **04** | **Boogeyman 2** | Maldoc Analysis & Endpoint Memory Forensics (DFIR) | `md5sum`, VirusTotal, `olevba`, Volatility 3, `strings`, `grep` | [View Report](./04-Boogeyman2/README.md) |
 | **05** | **Boogeyman 3** | Enterprise Threat Hunting, Lateral Movement & Active Directory Compromise | Elastic Stack | [View Report](./05-Boogeyman3/README.md) |
 | **06** | **PacketMaze** | Network Forensics | Wireshark | [View Report](./06-PacketMaze/README.md) |
+| **07** | **JetBrains** | Network Forensics | Wireshark | [View Report](./07-JetBrains/README.md) |
