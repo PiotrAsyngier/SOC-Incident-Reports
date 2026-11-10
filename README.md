@@ -14,3 +14,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **06** | **PacketMaze** | Network Forensics | Wireshark | [View Report](./06-PacketMaze/README.md) |
 | **07** | **JetBrains** | Network Forensics | Wireshark | [View Report](./07-JetBrains/README.md) |
 | **08** | **RetailBreach** | Network Forensics | Wireshark, CyberChef | [View Report](./08-RetailBreach/README.md) |
+| **09** | **AWSRaid** | Cloud Incident Response, S3 Data Exposure & IAM Persistence | Splunk Enterprise (AWS CloudTrail Telemetry) | [View Report](./09-AWSRaid/README.md) |
