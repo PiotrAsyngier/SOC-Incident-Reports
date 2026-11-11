@@ -16,3 +16,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **08** | **RetailBreach** | Network Forensics | Wireshark, CyberChef | CyberDefenders | [View Report](./08-RetailBreach/README.md) |
 | **09** | **AWSRaid** | Cloud Incident Response, S3 Data Exposure & IAM Persistence | Splunk Enterprise (AWS CloudTrail Telemetry) | CyberDefenders | [View Report](./09-AWSRaid/README.md) |
 | **10** | **PoisonedCredentials** | Network Forensics, Name Resolution Poisoning & Credential Harvesting | Wireshark | CyberDefenders | [View Report](./10-PoisonedCredentials/README.md) |
+| **11** | **PsExec Hunt** | Network Forensics, Lateral Movement & Remote Service Execution | Wireshark | CyberDefenders | [View Report](./11-PsExecHunt/README.md) |
