@@ -20,3 +20,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **12** | **Tomcat Takeover** | Network Forensics, Web Server Compromise & Reverse Shell Analysis | Wireshark, VirusTotal | CyberDefenders | [View Report](./12-TomcatTakeover/README.md) |
 | **13** | **DanaBot** | Network Forensics, Malware Dropper Analysis & Threat Intelligence | Wireshark, VirusTotal, Linux CLI | CyberDefenders | [View Report](./13-DanaBot/README.md) |
 | **14** | **XXE Infiltration** | Web Application Forensics, XXE Injection & Database Compromise | Wireshark | CyberDefenders | [View Report](./14-XXEInfiltration/README.md) |
+| **15** | **XLMRat** | Network Forensics, Malware Analysis, LOLBin Process Hollowing & Persistence | Wireshark, VirusTotal, CyberChef | CyberDefenders | [View Report](./15-XLMRat/README.md) |
