@@ -19,3 +19,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **11** | **PsExec Hunt** | Network Forensics, Lateral Movement & Remote Service Execution | Wireshark | CyberDefenders | [View Report](./11-PsExecHunt/README.md) |
 | **12** | **Tomcat Takeover** | Network Forensics, Web Server Compromise & Reverse Shell Analysis | Wireshark, VirusTotal | CyberDefenders | [View Report](./12-TomcatTakeover/README.md) |
 | **13** | **DanaBot** | Network Forensics, Malware Dropper Analysis & Threat Intelligence | Wireshark, VirusTotal, Linux CLI | CyberDefenders | [View Report](./13-DanaBot/README.md) |
+| **14** | **XXE Infiltration** | Web Application Forensics, XXE Injection & Database Compromise | Wireshark | CyberDefenders | [View Report](./14-XXEInfiltration/README.md) |
