@@ -23,3 +23,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **15** | **XLMRat** | Network Forensics, Malware Analysis, LOLBin Process Hollowing & Persistence | Wireshark, VirusTotal, CyberChef | CyberDefenders | [View Report](./15-XLMRat/README.md) |
 | **16** | **Yellow RAT** | Threat Intelligence, Malware Attribution & Host Artifact Analysis | VirusTotal, OSINT / Threat Intelligence Reports (Red Canary, Zscaler) | CyberDefenders | [View Report](./16-YellowRAT/README.md)
 | **17** | **HoneyBOT** | Network Forensics, SMB/DCERPC Exploitation & Malware Analysis | Wireshark, Linux CLI, IP Geolocation, VirusTotal | CyberDefenders | [View Report](./17-HoneyBOT/README.md)
+| **18** | **Oski** | Threat Intelligence, Malware Sandbox Triage & Infostealer Analysis | VirusTotal, Recorded Future Triage (260730-engzhayhja), ANY.RUN Sandbox | CyberDefenders | [View Report](./18-Oski/README.md)
