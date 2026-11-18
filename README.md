@@ -25,3 +25,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **17** | **HoneyBOT** | Network Forensics, SMB/DCERPC Exploitation & Malware Analysis | Wireshark, Linux CLI, IP Geolocation, VirusTotal | CyberDefenders | [View Report](./17-HoneyBOT/README.md)
 | **18** | **Oski** | Threat Intelligence, Malware Sandbox Triage & Infostealer Analysis | VirusTotal, Recorded Future Triage (260730-engzhayhja), ANY.RUN Sandbox | CyberDefenders | [View Report](./18-Oski/README.md)
 | **19** | **Web Investigation** | Network Forensics, Web Attack Analysis & Incident Response | Wireshark, CyberChef, online IP Geolocation service | CyberDefenders | [View Report](./19-WebInvestigation/README.md)
+| **20** | **IcedID** | Threat Intelligence, Malicious Document Analysis & Malware Triage | VirusTotal, Recorded Future Triage, MITRE ATT&CK | CyberDefenders | [View Report](./20-IcedID/README.md)
