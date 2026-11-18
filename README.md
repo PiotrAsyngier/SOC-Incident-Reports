@@ -26,3 +26,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **18** | **Oski** | Threat Intelligence, Malware Sandbox Triage & Infostealer Analysis | VirusTotal, Recorded Future Triage (260730-engzhayhja), ANY.RUN Sandbox | CyberDefenders | [View Report](./18-Oski/README.md)
 | **19** | **Web Investigation** | Network Forensics, Web Attack Analysis & Incident Response | Wireshark, CyberChef, online IP Geolocation service | CyberDefenders | [View Report](./19-WebInvestigation/README.md)
 | **20** | **IcedID** | Threat Intelligence, Malicious Document Analysis & Malware Triage | VirusTotal, Recorded Future Triage, MITRE ATT&CK | CyberDefenders | [View Report](./20-IcedID/README.md)
+| **21** | **Ramnit** | Memory Forensics, Malware Extraction & Threat Intelligence | Volatility 3 Framework (windows.pstree, windows.netscan, windows.dumpfiles), sha1sum, IP Geolocation, VirusTotal | CyberDefenders | [View Report](./21-Ramnit/README.md)
