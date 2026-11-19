@@ -27,3 +27,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **19** | **Web Investigation** | Network Forensics, Web Attack Analysis & Incident Response | Wireshark, CyberChef, online IP Geolocation service | CyberDefenders | [View Report](./19-WebInvestigation/README.md)
 | **20** | **IcedID** | Threat Intelligence, Malicious Document Analysis & Malware Triage | VirusTotal, Recorded Future Triage, MITRE ATT&CK | CyberDefenders | [View Report](./20-IcedID/README.md)
 | **21** | **Ramnit** | Memory Forensics, Malware Extraction & Threat Intelligence | Volatility 3 Framework (windows.pstree, windows.netscan, windows.dumpfiles), sha1sum, IP Geolocation, VirusTotal | CyberDefenders | [View Report](./21-Ramnit/README.md)
+| **22** | **Openfire** | Network Forensics, Path Traversal Exploitation & Post-Exploitation Analysis | Wireshark, CyberChef | CyberDefenders | [View Report](./22-Openfire/README.md)
