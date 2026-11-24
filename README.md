@@ -29,4 +29,4 @@ This repository contains technical incident reports, malware triage write-ups, a
 | **21** | **Ramnit** | Memory Forensics, Malware Extraction & Threat Intelligence | Volatility 3 Framework (windows.pstree, windows.netscan, windows.dumpfiles), sha1sum, IP Geolocation, VirusTotal | CyberDefenders | [View Report](./21-Ramnit/README.md)
 | **22** | **Openfire** | Network Forensics, Path Traversal Exploitation & Post-Exploitation Analysis | Wireshark, CyberChef | CyberDefenders | [View Report](./22-Openfire/README.md)
 | **23** | **PacketDetective** | Network Forensics, Defense Evasion, Lateral Movement & Remote Execution | Wireshark | CyberDefenders | [View Report](./23-PacketDetective/README.md)
-| **24** | **Malware Traffic Analysis 1** | Wireshark (mta1.pcap), Linux CLI (md5sum) | Wireshark, Linux CLI | CyberDefenders | [View Report](./24-MalwareTrafficAnalysis1/README.md)
+| **24** | **Malware Traffic Analysis 1** | Network Forensics, Drive-By Exploit Kit Analysis & Malware Extraction | Wireshark, Linux CLI | CyberDefenders | [View Report](./24-MalwareTrafficAnalysis1/README.md)
